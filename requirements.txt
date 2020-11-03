@@ -1,0 +1,2 @@
+docker/compose 1.27.3
+hashicorp/terraform v0.13.4
